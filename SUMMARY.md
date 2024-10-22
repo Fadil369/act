@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [🩺 Healthcare](README.md)
+* [Business](business.md)
+* [Technology](technology.md)
